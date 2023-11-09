@@ -1,0 +1,1 @@
+This thesis uses an LSTM neural network to predict future energy prices. To do this, it uses historical energy price data as well as synthetic data on social and political events. The results show that the LSTM neural network is able to predict energy prices with an acceptable accuracy.
